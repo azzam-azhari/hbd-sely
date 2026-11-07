@@ -1289,6 +1289,7 @@ audio {
         font-weight: 700;
         color: #fff;
         background-color: #466baf;
+        margin-bottom: 40px;
 }
     .btn-primary:hover,
     .btn-primary:focus,
